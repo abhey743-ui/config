@@ -1,0 +1,12 @@
+version: 1.3
+
+message: this is account qa
+
+contact:
+  name: "kamal"
+  gmail: "Kamal@gmail.com"
+  specialities:
+    - Spring boot
+    - Java
+  education:
+    bsc. hons computer science

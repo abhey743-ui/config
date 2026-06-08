@@ -1,0 +1,12 @@
+
+version: 1.1
+
+message: This is accounts development
+
+contact:
+  name: "Aman"
+  gmail: "aman@gmail.com"
+  specialities:
+    - digital marketing
+    - cloud computing
+  education: bsc. hons computer science
